@@ -1,0 +1,13 @@
+a = str(input (" masukan daftar belanja 1:  "))
+b = str(input (" masukan daftar belanja 2:  "))
+c = str(input (" tambahkan data ke daftar belanja 1: "))
+d = str(input (" tambahkan data ke daftar belanja 2: "))
+print (" daftar belanja 1 adalah",a+',',c )
+print (" daftar belanja 2 adalah",b+',',d )
+        
+a = str(input (" masukan daftar belanja 1:  "))
+b = str(input (" masukan daftar belanja 2:  "))
+c = str(input (" tambahkan data ke daftar belanja 1: "))
+d = str(input (" tambahkan data ke daftar belanja 2: "))
+print (" daftar belanja 1 adalah",a+',',c )
+print (" daftar belanja 2 adalah",b+',',d )
